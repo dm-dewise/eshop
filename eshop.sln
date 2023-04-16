@@ -13,13 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eshop.test", "eshop.test\es
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eshop.user.api", "eshop.user.api\eshop.user.api.csproj", "{8A1F21F2-FFD4-47F7-994C-189A741A2B6F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eshop.product.api", "shop.product.api\eshop.product.api.csproj", "{8BFE2326-B26A-4560-A381-5766721BD52F}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5D2ABB62-52EA-4FF4-9468-DEB6C06643AD}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eshop.product.api", "eshop.product.api\eshop.product.api.csproj", "{3744E2A6-4EC6-411B-86AB-02A0B474CB86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,10 +47,10 @@ Global
 		{8A1F21F2-FFD4-47F7-994C-189A741A2B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A1F21F2-FFD4-47F7-994C-189A741A2B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A1F21F2-FFD4-47F7-994C-189A741A2B6F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8BFE2326-B26A-4560-A381-5766721BD52F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8BFE2326-B26A-4560-A381-5766721BD52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8BFE2326-B26A-4560-A381-5766721BD52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8BFE2326-B26A-4560-A381-5766721BD52F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3744E2A6-4EC6-411B-86AB-02A0B474CB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3744E2A6-4EC6-411B-86AB-02A0B474CB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3744E2A6-4EC6-411B-86AB-02A0B474CB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3744E2A6-4EC6-411B-86AB-02A0B474CB86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
